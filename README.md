@@ -1,2 +1,1 @@
-# homebrew-gwm
 # homebrew-tap
