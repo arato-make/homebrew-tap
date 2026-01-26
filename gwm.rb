@@ -5,7 +5,7 @@ class Gwm < Formula
 
   on_macos do
     on_intel do
-      url "hhttps://github.com/arato-make/gwm/releases/download/v0.1.5/gwm_Darwin_x86_64.tar.gz"
+      url "https://github.com/arato-make/gwm/releases/download/v0.1.5/gwm_Darwin_x86_64.tar.gz"
       sha256 "e297355a49442a831c145592fc73d9ec893076b02479e331f8a6dcacb6765375"
 
       def install
